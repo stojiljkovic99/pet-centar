@@ -1,9 +1,7 @@
-# pet-centar
-pet centar
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Pet shop</title>
+<title>Pet shop</title>
 	<link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
 	  <link rel="icon" href="style/kuce.png" type="image/png" sizes="17x17">
 </head>
